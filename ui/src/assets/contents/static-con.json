@@ -1,0 +1,17 @@
+{
+    "records": [
+        {
+            "orderId": "1",
+            "productName": "A",
+            "quantity": 2,
+            "amount": 300
+        },
+        {
+            "orderId": "2",
+            "productName": "B",
+            "quantity": 2,
+            "amount": 300
+        }
+    ],
+    "totalRecords": 20
+}
